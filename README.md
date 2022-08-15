@@ -10,7 +10,7 @@ The script installs all the packages needed and runs the app on ```localhost:300
 
 ***Notes***
 
-MongoDB database should be running on localhost:27017 
+MongoDB database should be running on ```localhost:27017 ```
 
 
 
