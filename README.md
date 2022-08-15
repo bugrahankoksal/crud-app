@@ -6,7 +6,7 @@ To run this app, you just need to type the following command to the terminal.
 
 ```npm run start```
 
-The script installs all the packages needed and runs the app on ```http://localhost:5000/ ```
+The script installs all the packages needed and runs the app on ```http://localhost:3000/ ```
 
 
 
